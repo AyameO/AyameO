@@ -27,10 +27,10 @@
 ### 📝 Licenses & Certifications
 
 - **Mathematics for Machine Learning Specialization** – Imperial College London (via Coursera)
-- **Python 3 Certified Data Analyst** – Python Engineers Certification Examination Board
-- **Applied Information Technology Engineer Examination (AP)** – Information-technology Promotion Agency, Japan (IPA)
-- **Statistics Professional Certification, Grade 2** – The Japan Statistical Society
-- **Associate Nature Restoration Specialist** – Nature Restoration Specialist Certification Board
+- **Python 3 Data Analyst Certification** – Python Engineers Examination Board, Japan
+- **Applied Information Technology Pass Certificate** – Information-technology Promotion Agency (IPA), Japan
+- **Statistics Certification, Grade 2** – The Japan Statistical Society
+- **Associate Nature Restoration Specialist** – Japan Greenery Research and Development Center
 
 ---
 
