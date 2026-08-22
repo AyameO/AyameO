@@ -9,32 +9,32 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="HTML" />
-  <img src="https://shields.io" alt="QGIS" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
+
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+---
+### 📜 Licenses & Certifications
+
+- **Mathematics for Machine Learning Specialization** – Imperial College London (via Coursera)
+- **Applied Information Technology Engineer Examination (AP)** – Information-technology Promotion Agency, Japan (IPA)
+- **Python 3 Certified Data Analyst** – Python Engineers Certification Examination Board
+- **Statistics Professional Certification, Grade 2** – The Japan Statistical Society
+- **Associate Nature Restoration Specialist** – Nature Restoration Specialist Certification Board
+
 ---
 
 ### 🌐 Connect with Me
-<p>
-  <a href="https://qiita.com/AyameO" target="_blank">
-    <img src="https://shields.io" alt="Qiita" />
-  </a>
-  <a href="https://medium.com/@ayame-o-13" target="_blank">
-    <img src="https://shields.io" alt="Medium" />
-  </a>
-  <a href="https://www.openstreetmap.org/user/AyameO" target="_blank">
-    <img src="https://shields.io" alt="OpenStreetMap" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="AyameO's GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
+[Qiita](https://qiita.com/AyameO)
+[Medium](https://medium.com/@ayame-o-13)
+[OpenStreetMap](https://www.openstreetmap.org/user/AyameO)
