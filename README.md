@@ -34,7 +34,7 @@
 
 ---
 
-### 🌐 Blog & Media
+### 🌐 Blog
 [Medium](https://medium.com/@ayame-o-13)
 [Qiita](https://qiita.com/AyameO)
 [OpenStreetMap](https://www.openstreetmap.org/user/AyameO)
