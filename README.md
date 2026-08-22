@@ -24,17 +24,17 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ---
-### 📜 Licenses & Certifications
+### 📝 Licenses & Certifications
 
 - **Mathematics for Machine Learning Specialization** – Imperial College London (via Coursera)
-- **Applied Information Technology Engineer Examination (AP)** – Information-technology Promotion Agency, Japan (IPA)
 - **Python 3 Certified Data Analyst** – Python Engineers Certification Examination Board
+- **Applied Information Technology Engineer Examination (AP)** – Information-technology Promotion Agency, Japan (IPA)
 - **Statistics Professional Certification, Grade 2** – The Japan Statistical Society
 - **Associate Nature Restoration Specialist** – Nature Restoration Specialist Certification Board
 
 ---
 
-### 🌐 Connect with Me
-[Qiita](https://qiita.com/AyameO)
+### 🌐 Blog & Media
 [Medium](https://medium.com/@ayame-o-13)
+[Qiita](https://qiita.com/AyameO)
 [OpenStreetMap](https://www.openstreetmap.org/user/AyameO)
