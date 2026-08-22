@@ -24,7 +24,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ---
-### 📝 Licenses & Certifications
+### 📝 Certifications
 
 - **Mathematics for Machine Learning Specialization** – Imperial College London (via Coursera)
 - **Python 3 Data Analyst Certification** – Python Engineers Examination Board, Japan
