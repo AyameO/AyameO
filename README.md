@@ -24,7 +24,6 @@
 
 ---
 ### 📝 Certifications
-
 - **Mathematics for Machine Learning Specialization** – Imperial College London (via Coursera)
 - **Python 3 Data Analyst Certification** – Python Engineers Examination Board, Japan
 - **Applied Information Technology Pass Certificate** – Information-technology Promotion Agency (IPA), Japan
@@ -34,7 +33,7 @@
 ---
 
 ### 🌐 SNS & Blog
-[LinkedIn](https://www.linkedin.com/in/ayameo/)  
-[OpenStreetMap](https://www.openstreetmap.org/user/AyameO)  
-[Medium](https://medium.com/@ayame-o-13) 
+[LinkedIn](https://www.linkedin.com/in/ayameo/) &ensp;
+[OpenStreetMap](https://www.openstreetmap.org/user/AyameO) &ensp;
+[Medium](https://medium.com/@ayame-o-13) &ensp;
 [Qiita](https://qiita.com/AyameO)
