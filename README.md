@@ -33,7 +33,8 @@
 
 ---
 
-### 🌐 Blog
-[Medium](https://medium.com/@ayame-o-13)
+### 🌐 SNS & Blog
+[LinkedIn](https://www.linkedin.com/in/ayameo/)  
+[OpenStreetMap](https://www.openstreetmap.org/user/AyameO)  
+[Medium](https://medium.com/@ayame-o-13) 
 [Qiita](https://qiita.com/AyameO)
-[OpenStreetMap](https://www.openstreetmap.org/user/AyameO)
