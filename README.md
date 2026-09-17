@@ -4,7 +4,7 @@
 - 💼 **Role**: Data Scientist / Software and System Engineer
 - 🎓 **Education**: Incoming Graduate Student (Starting in 2027)
 - 🦉 **Research Theme**: 
-  > *Designing Protected Areas for Biodiversity Conservation through Spatial Data Analysis and Wildlife Distribution Modeling*
+  > *Researching GeoAI techniques to integrate Earth observation and spatial data for ecosystem conservation and data-driven protected-area planning.*
 
 ---
 
