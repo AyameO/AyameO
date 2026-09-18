@@ -4,7 +4,7 @@
 - 💼 **Role**: Data Scientist / Software and System Engineer
 - 🎓 **Education**: Incoming Graduate Student (Starting in 2027)
 - 🦉 **Research Theme**: 
-  > *Researching GeoAI techniques to integrate Earth observation and spatial data for ecosystem conservation and data-driven protected-area planning.*
+  > *Data-Driven Protected Area Selection Using Species Distribution Modeling and Spatial Analysis for Biodiversity Conservation.*
 
 ---
 
