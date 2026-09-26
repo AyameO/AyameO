@@ -4,7 +4,7 @@
 - 💼 **Role**: Data Scientist / Software and System Engineer
 - 🎓 **Education**: Incoming Graduate Student (Starting in 2027)
 - 🦉 **Research Theme**: 
-  > *Data-Driven Protected Area Selection Using Species Distribution Modeling and Spatial Analysis for Biodiversity Conservation.*
+  > *Data-Driven Protected Area Selection Using Spatial Analysis and SDM for Biodiversity Conservation.*
 
 ---
 
